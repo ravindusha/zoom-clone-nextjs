@@ -1,3 +1,5 @@
+## Zoom Clone - [NextJS](https://nextjs.org/) / [shadcn](https://ui.shadcn.com/docs/components) / [tailwind](https://tailwindcss.com/) / [stream](https://getstream.io/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
